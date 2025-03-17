@@ -1,0 +1,698 @@
+﻿name/name,isomeric_smiles,Model,BetaT,GammaT,BetaV,GammaV
+Methane/Krypton                                           [C1/KR],C.[Kr],XR0,1,0.9930853,1,1.0003826
+Methane/Nitrous oxide                                     [C1/N2O],C.[N-]=[N+]=O,XR0,0.98876,1.02354,1,1
+Methane/Carbonyl sulfide                                  [C1/COS],C.C(=O)=S,XR0,1,1.0391,1,1.1443
+Methane/Propylene                                         [C1/PRY],C.CC=C,XR0,0.998,1.117,1,1
+Methane/R22                                               [C1/R22],C.C(F)(F)Cl,XR0,1,1.1114773,1,1.0219928
+Methane/Dimethyl ether                                    [C1/DME],C.COC,XR0,1,1.1118,1,1.1094
+Methane/Sulfur dioxide                                    [C1/SO2],C.O=S=O,XR0,1.03694,1.07082,1,1
+Methane/Perfluorobutane                                   [C1/C4F10],C.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.013695,1.12365,1,1
+Methane/Neopentane                                        [C1/C5A],C.CC(C)(C)C,XR0,1,1.1976,1,1.0772
+Methane/Methylcyclohexane                                 [C1/C1CC6],C.CC1CCCCC1,XR0,0.98,1.363,0.961,1.041
+Methane/Dodecane                                          [C1/C12],C.CCCCCCCCCCCC,XR0,0.904,1.716,1,0.978
+Parahydrogen/Orthohydrogen                                [PH2/OH2],[HH].[HH],XR0,1,1,1,1
+Hydrogen/Deuterium                                        [H2/D2],[HH].[2H][2H],XR0,1.0087153,0.99511,1,1
+Deuterium/Neon                                            [D2/NE],[2H][2H].[Ne],XR0,0.98882,0.83393,1,1
+Deuterium/Nitrogen                                        [D2/N2],[2H][2H].N#N,XR0,1.015610028,1.22898,1,1
+Neon/Argon                                                [NE/AR],[Ne].[Ar],XR0,1.004,1.0994,1,1.051
+Neon/Oxygen                                               [NE/O2],[Ne].O=O,XR0,1,1.1554168,1,1.026061
+Neon/Krypton                                              [NE/KR],[Ne].[Kr],XR0,1.02385,1.1957,1,1
+Nitrogen/Carbon monoxide                                  [N2/CO],N#N.[C-]#[O+],XR0,1.002409,0.9941,1,1.001317
+Nitrogen/Argon                                            [N2/AR],N#N.[Ar],XR0,0.999442,0.989311,1.006697,1.001549
+Nitrogen/R14                                              [N2/R14],N#N.C(F)(F)(F)F,XR0,1,1.0674,1,1.1693
+Nitrogen/R13                                              [N2/R13],N#N.C(F)(F)(F)Cl,XR0,1,1.181,1,1.1727
+Nitrogen/Propylene                                        [N2/PRY],N#N.CC=C,XR0,0.99,1.197,1,1
+Nitrogen/R22                                              [N2/R22],N#N.C(F)(F)Cl,XR0,1,1.2360548,1,1.0311034
+Nitrogen/R12                                              [N2/R12],N#N.C(F)(F)(Cl)Cl,XR0,1,1.2981559,1,1.0625855
+Nitrogen/R13I1                                            [N2/CF3I],N#N.C(F)(F)(F)I,XR0,0.9987715,1.30226,1,1
+Nitrogen/R227ea                                           [N2/R227EA],N#N.C(C(F)(F)F)(C(F)(F)F)F,XR0,1,1.3734074,1,1.109976
+Nitrogen/Sulfur dioxide                                   [N2/SO2],N#N.O=S=O,XR0,0.95613812,1.1946588,1.106654368,1.2155808
+Nitrogen/Methanol                                         [N2/MEO],N#N.CO,XR0,0.998,1.5293,0.534,1.529
+Nitrogen/Isooctane                                        [N2/C8I],N#N.CC(C)CC(C)(C)C,XR0,0.9911294,1.55448,1,1
+Nitrogen/Methylcyclohexane                                [N2/C1CC6],N#N.CC1CCCCC1,XR0,0.991,1.542,1,1
+Nitrogen/Toluene                                          [N2/TOL],N#N.CC1=CC=CC=C1,XR0,1,1.524,1,1
+Nitrogen/p-Xylene                                         [N2/XYP],N#N.CC1=CC=C(C=C1)C,XR0,0.99471,1.63462,1,1
+Nitrogen/Propylcyclohexane                                [N2/C3CC6],N#N.CCCC1CCCCC1,XR0,0.9880837,1.69332,1,1
+Carbon monoxide/Oxygen                                    [CO/O2],[C-]#[O+].O=O,XR0,1,0.993425388,1,1.008690943
+Carbon monoxide/Ethylene                                  [CO/ETY],[C-]#[O+].C=C,XR0,0.96488997,1.09111,1,1
+Carbon monoxide/Propylene                                 [CO/PRY],[C-]#[O+].CC=C,XR0,1,1.184,1,1
+Carbon monoxide/Sulfur dioxide                            [CO/SO2],[C-]#[O+].O=S=O,XR0,1,1.177903242,1,1.00724143
+Carbon monoxide/Butene                                    [CO/1BE],[C-]#[O+].CCC=C,XR0,1,1.3077,1,1
+Carbon monoxide/Ethanol                                   [CO/ETO],[C-]#[O+].CCO,XR0,1,1.56,1,1
+Carbon monoxide/Benzene                                   [CO/BEN],[C-]#[O+].C1=CC=CC=C1,XR0,1,1.435,1,1
+Carbon monoxide/Cyclohexane                               [CO/CC6],[C-]#[O+].C1CCCCC1,XR0,0.9917,1.4608,1,1
+Carbon monoxide/Toluene                                   [CO/TOL],[C-]#[O+].CC1=CC=CC=C1,XR0,1,1.499,1,1
+Carbon monoxide/p-Xylene                                  [CO/XYP],[C-]#[O+].CC1=CC=C(C=C1)C,XR0,0.981810006,1.62153,1,1
+Carbon monoxide/m-Xylene                                  [CO/XYM],[C-]#[O+].CC1=CC(=CC=C1)C,XR0,0.984390035,1.5975,1,1
+Carbon monoxide/Dodecane                                  [CO/C12],[C-]#[O+].CCCCCCCCCCCC,XR0,0.933,1.941,1,0.87
+Argon/Oxygen                                              [AR/O2],[Ar].O=O,XR0,1.000961924,0.988822,0.993540003,1.001341
+Argon/Krypton                                             [AR/KR],[Ar].[Kr],XR0,1,1.0025306,1,1.0037297
+Argon/Hydrogen sulfide                                    [AR/H2S],[Ar].S,XR0,1.004692366,0.9601742,0.910394249,1.256844157
+Argon/Propylene                                           [AR/PRY],[Ar].CC=C,XR0,1,1.158,1,1
+Argon/Propane                                             [AR/C3],[Ar].CCC,XR0,1.002677329,1.201264026,0.974424681,1.081025408
+Argon/R22                                                 [AR/R22],[Ar].C(F)(F)Cl,XR0,1,1.1883347,1,1.0519798
+Argon/Ammonia                                             [AR/NH3],[Ar].N,XR0,0.9662022,1.06504,1,1
+Argon/Isobutane                                           [AR/C4I],[Ar].CC(C)C,XR0,0.99286813,1.284462634,0.98641583,1.100576129
+Argon/Neopentane                                          [AR/C5A],[Ar].CC(C)(C)C,XR0,1.000190036,1.28707,1,1
+Argon/Isopentane                                          [AR/C5I],[Ar].CCC(C)C,XR0,1,1.38177077,1,1.154135439
+Argon/Pentane                                             [AR/C5],[Ar].CCCCC,XR0,1,1.419029041,1,1.078877166
+Argon/Cyclopentane                                        [AR/CC5],[Ar].C1CCCC1,XR0,0.979799954,1.36013,1,1
+Argon/Methanol                                            [AR/MEO],[Ar].CO,XR0,1,1.436,1,1
+Argon/Hexane                                              [AR/C6],[Ar].CCCCCC,XR0,1,1.472607971,1,1.195952177
+Argon/Ethanol                                             [AR/ETO],[Ar].CCO,XR0,1,1.492,1,1
+Argon/Benzene                                             [AR/BEN],[Ar].C1=CC=CC=C1,XR0,1.01,1.397,1,1
+Argon/Heptane                                             [AR/C7],[Ar].CCCCCCC,XR0,1,1.520975334,1,1.40455409
+Argon/Water                                               [AR/H2O],[Ar].O,XR0,1.472528508,0.921,1.063379548,1.050952
+Argon/Toluene                                             [AR/TOL],[Ar].CC1=CC=CC=C1,XR0,1,1.45,1,1
+Argon/Octane                                              [AR/C8],[Ar].CCCCCCCC,XR0,1,1.733280051,1,1.186067025
+Argon/Nonane                                              [AR/C9],[Ar].CCCCCCCCC,XR0,0.95637945,1.749119996,1,1.100405929
+Argon/Decane                                              [AR/C10],[Ar].CCCCCCCCCC,XR0,0.957934447,1.822157123,1,1
+Oxygen/Krypton                                            [O2/KR],O=O.[Kr],XR0,1,0.9729,1,1.0043319
+Oxygen/Nitrous oxide                                      [O2/N2O],O=O.[N-]=[N+]=O,XR0,0.9525,1.1068,1,1
+Oxygen/Carbon dioxide                                     [O2/CO2],O=O.C(=O)=O,XR0,1,1.031986,1,1.08446
+Oxygen/Hydrogen sulfide                                   [O2/H2S],O=O.S,XR0,1.004692366,0.9601742,0.910394249,1.256844157
+Oxygen/Propylene                                          [O2/PRY],O=O.CC=C,XR0,1,1.155,1,1
+Oxygen/Propane                                            [O2/C3],O=O.CCC,XR0,1.002677329,1.201264026,0.974424681,1.081025408
+Oxygen/Isobutane                                          [O2/C4I],O=O.CC(C)C,XR0,0.99286813,1.284462634,0.98641583,1.100576129
+Oxygen/Sulfur dioxide                                     [O2/SO2],O=O.O=S=O,XR0,1.077631495,1.0358782,0.820178827,1.6606317
+Oxygen/Butane                                             [O2/C4],O=O.CCCC,XR0,0.994515234,1.304886838,0.99608261,1.146949309
+Oxygen/Isopentane                                         [O2/C5I],O=O.CCC(C)C,XR0,1,1.38177077,1,1.154135439
+Oxygen/Pentane                                            [O2/C5],O=O.CCCCC,XR0,1,1.419029041,1,1.078877166
+Oxygen/Methanol                                           [O2/MEO],O=O.CO,XR0,1,1.436,1,1
+Oxygen/Hexane                                             [O2/C6],O=O.CCCCCC,XR0,1,1.472607971,1,1.195952177
+Oxygen/Ethanol                                            [O2/ETO],O=O.CCO,XR0,1,1.492,1,1
+Oxygen/Benzene                                            [O2/BEN],O=O.C1=CC=CC=C1,XR0,1.01,1.397,1,1
+Oxygen/Cyclohexane                                        [O2/CC6],O=O.C1CCCCC1,XR0,1,1.3883,1,1
+Oxygen/Heptane                                            [O2/C7],O=O.CCCCCCC,XR0,1,1.520975334,1,1.40455409
+Oxygen/Toluene                                            [O2/TOL],O=O.CC1=CC=CC=C1,XR0,1,1.45,1,1
+Oxygen/Octane                                             [O2/C8],O=O.CCCCCCCC,XR0,1,1.733280051,1,1.186067025
+Oxygen/Nonane                                             [O2/C9],O=O.CCCCCCCCC,XR0,0.95637945,1.749119996,1,1.100405929
+Oxygen/Decane                                             [O2/C10],O=O.CCCCCCCCCC,XR0,0.957934447,1.822157123,1,1
+Krypton/Xenon                                             [KR/XE],[Kr].[Xe],XR0,1,1.019637,1,1.0054519
+Krypton/Ethane                                            [KR/C2],[Kr].CC,XR0,0.992161921,1.0437,1,1
+Krypton/Propylene                                         [KR/PRY],[Kr].CC=C,XR0,1,1.0773977,1,1.0390195
+Krypton/Ammonia                                           [KR/NH3],[Kr].N,XR0,1.011818,0.92419,1,1
+R14/Ethane                                                [R14/C2],C(F)(F)(F)F.CC,XR0,0.985386715,0.89216,1,1
+R14/R23                                                   [R14/R23],C(F)(F)(F)F.C(F)(F)F,XR0,1,0.946758,1,1.0002627
+R14/R13                                                   [R14/R13],C(F)(F)(F)F.C(F)(F)(F)Cl,XR0,1,0.9927242,1,1.0048844
+R14/Toluene                                               [R14/TOL],C(F)(F)(F)F.CC1=CC=CC=C1,XR0,0.920319984,1.18828,1,1
+Xenon/Ethylene                                            [XE/ETY],[Xe].C=C,XR0,1,0.9798,1,1.0048
+Xenon/Ethane                                              [XE/C2],[Xe].CC,XR0,1,1.0112641,1,1.0034307
+Xenon/Hydrogen chloride                                   [XE/HCL],[Xe].Cl,XR0,1.0176667,0.90579,1,1
+Xenon/R41                                                 [XE/R41],[Xe].CF,XR0,1.0229865,0.91395,1,1
+Xenon/Sulfur hexafluoride                                 [XE/SF6],[Xe].FS(F)(F)(F)(F)F,XR0,1.0366024,0.92846,1,1
+Xenon/Propylene                                           [XE/PRY],[Xe].CC=C,XR0,1.009784815,1.01223,1,1
+Xenon/Propane                                             [XE/C3],[Xe].CCC,XR0,0.99511399,1.04133,1,1
+Xenon/Cyclopropane                                        [XE/CC3],[Xe].C1CC1,XR0,0.934273836,0.94711,1,1
+Xenon/R40                                                 [XE/R40],[Xe].CCl,XR0,1.0366562,1.03491,1,1
+Xenon/Cyclopentane                                        [XE/CC5],[Xe].C1CCCC1,XR0,0.953688869,1.17726,1,1
+Xenon/Methanol                                            [XE/MEO],[Xe].CO,XR0,1.068855683,0.77335,1,1
+Xenon/Hexane                                              [XE/C6],[Xe].CCCCCC,XR0,0.980786395,1.16656,1,1
+Ethylene/Propylene                                        [ETY/PRY],C=C.CC=C,XR0,1.004,1.016,1,1
+Ethylene/Propane                                          [ETY/C3],C=C.CCC,XR0,1.006036217,1.014,1,1
+Ethylene/R1216                                            [ETY/R1216],C=C.C(=C(F)F)(C(F)(F)F)F,XR0,1.01864,0.99653,1,1
+Ethylene/Isobutane                                        [ETY/C4I],C=C.CC(C)C,XR0,0.995024876,1.057,1,1
+Ethylene/Butene                                           [ETY/1BE],C=C.CCC=C,XR0,1,1.0486,1,1
+Ethylene/Perfluorobutane                                  [ETY/C4F10],C=C.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.0415148,0.97341,1,1
+Ethylene/Butane                                           [ETY/C4],C=C.CCCC,XR0,0.978473581,1.058,1,1
+Ethylene/Diethyl ether                                    [ETY/DEE],C=C.CCOCC,XR0,0.9890121,1.10874,1,1
+Ethylene/Acetone                                          [ETY/ACT],C=C.CC(=O)C,XR0,1.0078308,1.10077,1,1
+Ethylene/Methanol                                         [ETY/MEO],C=C.CO,XR0,0.955,1.143,1.481,0.857
+Ethylene/Ethanol                                          [ETY/ETO],C=C.CCO,XR0,1,1.149,0.788,1.159
+Ethylene/Benzene                                          [ETY/BEN],C=C.C1=CC=CC=C1,XR0,0.978473581,1.124,1,1
+Ethylene/Cyclohexane                                      [ETY/CC6],C=C.C1CCCCC1,XR0,0.9987416,1.12037,1,1
+Ethylene/Toluene                                          [ETY/TOL],C=C.CC1=CC=CC=C1,XR0,0.992063492,1.173,1,1
+Ethane/Hydrogen chloride                                  [C2/HCL],CC.Cl,XR0,0.99182,0.90586,1,1
+Ethane/R23                                                [C2/R23],CC.C(F)(F)F,XR0,1.00597,0.87082,1,1
+Ethane/R116                                               [C2/R116],CC.C(C(F)(F)F)(F)(F)F,XR0,1.03539,0.89844,1,1
+Ethane/Propylene                                          [C2/PRY],CC.CC=C,XR0,1,1.002,1,1
+Ethane/R218                                               [C2/R218],CC.C(C(F)(F)F)(C(F)(F)F)(F)F,XR0,1.03147,0.93581,1,1
+Ethane/R1216                                              [C2/R1216],CC.C(=C(F)F)(C(F)(F)F)F,XR0,1.01157,0.93961,1,1
+Ethane/Dimethyl ether                                     [C2/DME],CC.COC,XR0,1,1.0388,1,1.0476
+Ethane/Perfluorobutane                                    [C2/C4F10],CC.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.0288172,0.97003,1,1
+Ethane/Ethanol                                            [C2/ETO],CC.CCO,XR0,0.994,1.086,1,1.179
+Ethane/Benzene                                            [C2/BEN],CC.C1=CC=CC=C1,XR0,1,1.081,1,1
+Ethane/Cyclohexane                                        [C2/CC6],CC.C1CCCCC1,XR0,0.9958,1.1004,1,1
+Ethane/Isooctane                                          [C2/C8I],CC.CC(C)CC(C)(C)C,XR0,0.90358,1.22877,1,1
+Ethane/Methylcyclohexane                                  [C2/C1CC6],CC.CC1CCCCC1,XR0,0.988,1.122,1,1
+Ethane/Toluene                                            [C2/TOL],CC.CC1=CC=CC=C1,XR0,1,1.129,1,1
+Ethane/m-Xylene                                           [C2/XYM],CC.CC1=CC(=CC=C1)C,XR0,0.98799,1.17616,1,1
+Ethane/Propylcyclohexane                                  [C2/C3CC6],CC.CCCC1CCCCC1,XR0,0.9812387,1.195,1,1
+Ethane/Undecane                                           [C2/C11],CC.CCCCCCCCCCC,XR0,0.9430937,1.27938,1,1
+Ethane/Dodecane                                           [C2/C12],CC.CCCCCCCCCCCC,XR0,0.97,1.3,1,1.24
+Nitrous oxide/R125                                        [N2O/R125],[N-]=[N+]=O.C(C(F)(F)F)(F)F,XR0,0.97626,0.77302,1,1
+Nitrous oxide/Dodecane                                    [N2O/C12],[N-]=[N+]=O.CCCCCCCCCCCC,XR0,0.965763678,1.2736,1,1
+Hydrogen chloride/R41                                     [HCL/R41],Cl.CF,XR0,0.98722,1.10901,1,1
+Hydrogen chloride/R32                                     [HCL/R32],Cl.C(F)F,XR0,1.00252,0.9976,1,1
+Hydrogen chloride/Propane                                 [HCL/C3],Cl.CCC,XR0,1.02143001,0.9176,1,1
+Hydrogen chloride/Chlorine                                [HCL/CL],Cl.ClCl,XR0,1.004006,0.96115,1,1
+Hydrogen chloride/R40                                     [HCL/R40],Cl.CCl,XR0,0.98451,1.08265,1,1
+Hydrogen chloride/Sulfur dioxide                          [HCL/SO2],Cl.O=S=O,XR0,0.9942,1.05144,1,1
+Hydrogen chloride/R142b                                   [HCL/R142B],Cl.C(F)(F)(Cl)Br,XR0,1.00828,1.00217,1,1
+Hydrogen chloride/Butane                                  [HCL/C4],Cl.CCCC,XR0,1.030736564,0.94381,1,1
+Hydrogen chloride/Methanol                                [HCL/MEO],Cl.CO,XR0,0.90069001,1.65053,1,1
+Hydrogen chloride/Hexane                                  [HCL/C6],Cl.CCCCCC,XR0,1.014810036,1.01449,1,1
+R23/Carbon dioxide                                        [R23/CO2],C(F)(F)F.C(=O)=O,XR0,1,0.979714,1,1.0099333
+R23/R116                                                  [R23/R116],C(F)(F)F.C(C(F)(F)F)(F)(F)F,XR0,1,0.9090532,1,1.0229397
+R23/Sulfur hexafluoride                                   [R23/SF6],C(F)(F)F.FS(F)(F)(F)(F)F,XR0,0.994449975,0.91843,1,1
+R23/R32                                                   [R23/R32],C(F)(F)F.C(F)F,XR0,1.00116,1.00385,1,1
+R23/R125                                                  [R23/R125],C(F)(F)F.C(C(F)(F)F)(F)F,XR0,1.00316,1.00309,1,1
+R23/Propylene                                             [R23/PRY],C(F)(F)F.CC=C,XR0,1,0.9107001,1,1.0085527
+R23/R143a                                                 [R23/R143A],C(F)(F)F.CC(F)(F)F,XR0,1.008095,1.00381,1,1
+R23/Propane                                               [R23/C3],C(F)(F)F.CCC,XR0,1.012002348,0.87585,1,1
+R23/R22                                                   [R23/R22],C(F)(F)F.C(F)(F)Cl,XR0,1,0.9894644,1,1.00389
+R23/R12                                                   [R23/R12],C(F)(F)F.C(F)(F)(Cl)Cl,XR0,1,0.9266031,1,1.0187876
+R23/R134a                                                 [R23/R134A],C(F)(F)F.C(C(F)(F)F)F,XR0,1,1.0105431,1,1.0141263
+R23/R152a                                                 [R23/R152A],C(F)(F)F.CC(F)F,XR0,0.9996501,1.02378,1,1
+R23/R227ea                                                [R23/R227EA],C(F)(F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,1,1.0091096,1,1.048399
+R23/Isobutane                                             [R23/C4I],C(F)(F)F.CC(C)C,XR0,1,0.904092,1,1.0362036
+R23/Butane                                                [R23/C4],C(F)(F)F.CCCC,XR0,1.024338277,0.89836,1,1
+R23/R114                                                  [R23/R114],C(F)(F)F.C(C(F)(F)Cl)(F)(F)Cl,XR0,1,0.9415606,1,1.052161
+R23/R11                                                   [R23/R11],C(F)(F)F.C(F)(Cl)(Cl)Cl,XR0,1,0.9362767,1,1.0321197
+R23/Isopentane                                            [R23/C5I],C(F)(F)F.CCC(C)C,XR0,1.029261916,0.93001,1,1
+R23/Pentane                                               [R23/C5],C(F)(F)F.CCCCC,XR0,1.034960982,0.94007,1,1
+R23/R113                                                  [R23/R113],C(F)(F)F.C(C(Cl)(Cl)Cl)(F)(F)F,XR0,1,0.9469168,1,1.0698503
+R23/Ethanol                                               [R23/ETO],C(F)(F)F.CCO,XR0,1.104764851,1.05138,1,1
+R23/Toluene                                               [R23/TOL],C(F)(F)F.CC1=CC=CC=C1,XR0,0.969090002,1.07054,1,1
+R13/Propylene                                             [R13/PRY],C(F)(F)(F)Cl.CC=C,XR0,1,0.9573813,1,1.0000414
+R13/Ammonia                                               [R13/NH3],C(F)(F)(F)Cl.N,XR0,0.962843856,0.76464,1,1
+R13/R12                                                   [R13/R12],C(F)(F)(F)Cl.C(F)(F)(Cl)Cl,XR0,1,0.9876934,1,1.0026221
+R13/Isobutane                                             [R13/C4I],C(F)(F)(F)Cl.CC(C)C,XR0,1.004490071,0.98045,1,1
+R13/Butane                                                [R13/C4],C(F)(F)(F)Cl.CCCC,XR0,1.00270731,0.98279,1,1
+R13/R11                                                   [R13/R11],C(F)(F)(F)Cl.C(F)(Cl)(Cl)Cl,XR0,1,1.0143855,1,1.0087681
+R13/R113                                                  [R13/R113],C(F)(F)(F)Cl.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1,1.0452965,1,1.0322528
+Carbon dioxide/R116                                       [CO2/R116],C(=O)=O.C(C(F)(F)F)(F)(F)F,XR0,1.03808,0.89857,1,1
+Carbon dioxide/R32                                        [CO2/R32],C(=O)=O.C(F)F,XR0,1,0.9978225,1,1.0058521
+Carbon dioxide/Carbonyl sulfide                           [CO2/COS],C(=O)=O.C(=O)=S,XR0,1.00023,0.9445,1,1
+Carbon dioxide/R125                                       [CO2/R125],C(=O)=O.C(C(F)(F)F)(F)F,XR0,1.0115,0.96741,1,1
+Carbon dioxide/R143a                                      [CO2/R143A],C(=O)=O.CC(F)(F)F,XR0,1.02027,0.98474,1,1
+Carbon dioxide/R22                                        [CO2/R22],C(=O)=O.C(F)(F)Cl,XR0,1,1.0037903,1,1.0261472
+Carbon dioxide/R1216                                      [CO2/R1216],C(=O)=O.C(=C(F)F)(C(F)(F)F)F,XR0,1.005,0.99,1,1
+Carbon dioxide/R12                                        [CO2/R12],C(=O)=O.C(F)(F)(Cl)Cl,XR0,1.01811,0.9576,1,1
+Carbon dioxide/R134a                                      [CO2/R134A],C(=O)=O.C(C(F)(F)F)F,XR0,1,1.008,1,1
+Carbon dioxide/Dimethyl ether                             [CO2/DME],C(=O)=O.COC,XR0,1,1.028,1,1.0194
+Carbon dioxide/R152a                                      [CO2/R152A],C(=O)=O.CC(F)F,XR0,1.00224,1.00646,1,1
+Carbon dioxide/R227ea                                     [CO2/R227EA],C(=O)=O.C(C(F)(F)F)(C(F)(F)F)F,XR0,1.00608,1.00235,1,1
+Carbon dioxide/R124                                       [CO2/R124],C(=O)=O.C(C(F)(F)F)(F)Cl,XR0,0.99517,1.01028,1,1
+Carbon dioxide/Sulfur dioxide                             [CO2/SO2],C(=O)=O.O=S=O,XR0,1.020063,1.0079753,0.889865,1.0057783
+Carbon dioxide/R142b                                      [CO2/R142B],C(=O)=O.CC(F)(F)Cl,XR0,1,0.9888,1,1.0626246
+Carbon dioxide/Butene                                     [CO2/1BE],C(=O)=O.CCC=C,XR0,1.0199,0.968,1,1
+Carbon dioxide/Perfluorobutane                            [CO2/C4F10],C(=O)=O.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.0416341,0.95201,1,1
+Carbon dioxide/Neopentane                                 [CO2/C5A],C(=O)=O.CC(C)(C)C,XR0,1.0573,0.9567,1,1.0801
+Carbon dioxide/R123                                       [CO2/R123],C(=O)=O.C(C(F)(F)F)(Cl)Cl,XR0,0.98639,1.05886,1,1
+Carbon dioxide/Diethyl ether                              [CO2/DEE],C(=O)=O.CCOCC,XR0,1.01217,1.03241,1,1
+Carbon dioxide/Novec649                                   [CO2/N649],C(=O)=O.C(=O)(C(C(F)(F)F)(C(F)(F)F)F)C(C(F)(F)F)(F)F,XR0,1.04359,1.03509,1,1
+Carbon dioxide/Cyclopentane                               [CO2/CC5],C(=O)=O.C1CCCC1,XR0,1.0223,0.9782,1,1.045
+Carbon dioxide/Methylcyclohexane                          [CO2/C1CC6],C(=O)=O.CC1CCCCC1,XR0,1.024,1.016,1,1
+Carbon dioxide/Ethylbenzene                               [CO2/EBE],C(=O)=O.CCC1=CC=CC=C1,XR0,1.00091,1.09145,1,1
+Carbon dioxide/p-Xylene                                   [CO2/XYP],C(=O)=O.CC1=CC=C(C=C1)C,XR0,1.0034,1.1043,1,1
+Carbon dioxide/o-Xylene                                   [CO2/XYO],C(=O)=O.CC1=CC=CC=C1C,XR0,1.00114,1.10292,1,1
+Carbon dioxide/Undecane                                   [CO2/C11],C(=O)=O.CCCCCCCCCCC,XR0,1.0061476,1.19119,1,1
+Carbon dioxide/Methyl stearate                            [CO2/MSTRT],C(=O)=O.CCCCCCCCCCCCCCCCCC(=O)OC,XR0,0.90151,1.45262,1,1
+R41/R40                                                   [R41/R40],CF.CCl,XR0,1.004843345,0.9981,1,1
+R41/Toluene                                               [R41/TOL],CCl.CC1=CC=CC=C1,XR0,0.975390032,1.09707,1,1
+R116/Propylene                                            [R116/PRY],C(C(F)(F)F)(F)(F).CC=C,XR0,0.986183568,0.87937,1,1
+R116/R143a                                                [R116/R143A],C(C(F)(F)F)(F)(F).CC(F)(F)F,XR0,1.01003,0.93499,1,1
+R116/Propane                                              [R116/C3],C(C(F)(F)F)(F)(F).CCC,XR0,0.983661384,0.89173,1,1
+R116/R22                                                  [R116/R22],C(C(F)(F)F)(F)(F).C(F)(F)Cl,XR0,0.99670996,0.91302,1,1
+R116/R134a                                                [R116/R134A],C(C(F)(F)F)(F)(F)F.C(C(F)(F)F)F,XR0,1,0.942852,1,1.0010759
+Sulfur hexafluoride/R32                                   [SF6/R32],FS(F)(F)(F)(F)F.C(F)F,XR0,1.0017029,0.86502,1,1
+Sulfur hexafluoride/Propane                               [SF6/C3],FS(F)(F)(F)(F)F.CCC,XR0,0.99088485,0.89338144,1.007559213,1.0150842
+Sulfur hexafluoride/Pentane                               [SF6/C5],FS(F)(F)(F)(F)F.CCCCC,XR0,1.041666667,0.9293,1,1.0605
+Sulfur hexafluoride/R113                                  [SF6/R113],FS(F)(F)(F)(F)F.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,0.9296359,1.06961,1,1
+Hydrogen sulfide/Carbonyl sulfide                         [H2S/COS],S.C(=O)=S,XR0,1,0.9442,1,1
+Hydrogen sulfide/Neopentane                               [H2S/C5A],S.CC(C)(C)C,XR0,1.025479999,0.93089,1,1
+Hydrogen sulfide/Acetone                                  [H2S/ACT],S.CC(=O)C,XR0,1.042122595,1.04871,1,1
+Hydrogen sulfide/Methanol                                 [H2S/MEO],S.CO,XR0,1,1.042,1,1
+Hydrogen sulfide/Benzene                                  [H2S/BEN],S.C1=CC=CC=C1,XR0,0.994,1.06,1,1
+Hydrogen sulfide/Cyclohexane                              [H2S/CC6],S.C1CCCCC1,XR0,1.011,1.0138,1,1
+Hydrogen sulfide/Isooctane                                [H2S/C8I],S.CC(C)CC(C)(C)C,XR0,1.022960031,1.01015,1,1
+Hydrogen sulfide/Methylcyclohexane                        [H2S/C1CC6],S.CC1CCCCC1,XR0,1.012,1.017,1,1
+Hydrogen sulfide/Toluene                                  [H2S/TOL],S.CC1=CC=CC=C1,XR0,1,1.075,1,1
+Hydrogen sulfide/Octane                                   [H2S/C8],S.CCCCCCCC,XR0,1,1.086557826,1,1.082905109
+Hydrogen sulfide/m-Xylene                                 [H2S/XYM],S.CC1=CC(=CC=C1)C,XR0,0.972370009,1.10582,1,1
+Hydrogen sulfide/Propylcyclohexane                        [H2S/C3CC6],S.CCCC1CCCCC1,XR0,0.995767986,1.10114,1,1
+Hydrogen sulfide/Ethylene glycol                          [H2S/EGLY],S.C(CO)O,XR0,0.9877,1.1981,1,1
+R32/Propylene                                             [R32/PRY],C(F)F.CC=C,XR0,1.003673445,0.90627,1,1
+R32/R143a                                                 [R32/R143A],C(F)F.CC(F)(F)F,XR0,1,0.9748252,1,1.0178106
+R32/Propane                                               [R32/C3],C(F)F.CCC,XR0,1,0.8616194,1,1.0198058
+R32/R22                                                   [R32/R22],C(F)F.C(F)(F)Cl,XR0,1,0.9933028,1,1.0073196
+R32/R115                                                  [R32/R115],C(F)F.C(C(F)(F)Cl)(F)(F)F,XR0,1,0.8807734,1,1.0424065
+R32/R161                                                  [R32/R161],C(F)F.CCF,XR0,0.9976157,0.98909,1,1
+R32/R12                                                   [R32/R12],C(F)F.C(F)(F)(Cl)Cl,XR0,1,0.9032201,1,1.0256397
+R32/Dimethyl ether                                        [R32/DME],C(F)F.COC,XR0,1,1.0255,1,0.8321
+R32/R152a                                                 [R32/R152A],C(F)F.CC(F)F,XR0,1,0.9975547,1,1.0120247
+R32/R227ea                                                [R32/R227EA],C(F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,1,0.9573075,1,1.0589568
+R32/Isobutane                                             [R32/C4I],C(F)F.CC(C)C,XR0,1,0.8573096,1,1.0454476
+R32/Sulfur dioxide                                        [R32/SO2],C(F)F.O=S=O,XR0,1.002379951,0.99968,1,1
+R32/R142b                                                 [R32/R142B],C(F)F.CC(F)(F)Cl,XR0,1,0.9718126,1,1.0305781
+R32/Butene                                                [R32/1BE],C(F)F.CCC=C,XR0,1.020262411,0.85398,1,1
+R32/R236fa                                                [R32/R236FA],C(F)F.C(C(F)(F)F)C(F)(F)F,XR0,1,0.9881848,1,1.0540041
+R32/Butane                                                [R32/C4],C(F)F.CCCC,XR0,1,0.8997516,1,0.7952703
+R32/R236ea                                                [R32/R236EA],C(F)F.C(C(F)F)(C(F)(F)F)F,XR0,1.0018835,1.01165,1,1
+R32/R123                                                  [R32/R123],C(F)F.C(C(F)(F)F)(Cl)Cl,XR0,1,0.972061,1,1.0550886
+R32/Isopentane                                            [R32/C5I],C(F)F.CCC(C)C,XR0,1,0.8885477,1,1.0683958
+R32/Methanol                                              [R32/MEO],C(F)F.CO,XR0,1.007049345,1.01175,1,1
+R32/Ethanol                                               [R32/ETO],C(F)F.CCO,XR0,1.025031263,1.01657,1,1
+R32/Toluene                                               [R32/TOL],C(F)F.CC1=CC=CC=C1,XR0,1.015980045,0.98173,1,1
+Carbonyl sulfide/Propane                                  [COS/C3],C(=O)=S.CCC,XR0,1,0.9929,1,1
+Carbonyl sulfide/Methanol                                 [COS/MEO],C(=O)=S.CO,XR0,1,1.0122,1,1
+R125/Propylene                                            [R125/PRY],C(C(F)(F)F)(F)F.CC=C,XR0,0.992723338,0.92944,1,1
+R125/Propane                                              [R125/C3],C(C(F)(F)F)(F)F.CCC,XR0,1,0.8993018,1,1.0001703
+R125/R22                                                  [R125/R22],C(C(F)(F)F)(F)F.C(F)(F)Cl,XR0,1,0.9775661,1,1.0046832
+R125/R115                                                 [R125/R115],C(C(F)(F)F)(F)F.C(C(F)(F)Cl)(F)(F)F,XR0,1.000280078,0.96147,1,1
+R125/R161                                                 [R125/R161],C(C(F)(F)F)(F)F.CCF,XR0,1.01043,0.99311,1,1
+R125/Ammonia                                              [R125/NH3],C(C(F)(F)F)(F)F.N,XR0,0.95649845,0.96866,1,1
+R125/Cyclopropane                                         [R125/CC3],C(C(F)(F)F)(F)F.C1CC1,XR0,0.985008176,0.91039,1,1
+R125/R1234yf                                              [R125/R1234YF],C(C(F)(F)F)(F)F.C=C(C(F)(F)F)F,XR0,1,0.999,1,1
+R125/Dimethyl ether                                       [R125/DME],C(C(F)(F)F)(F)F.COC,XR0,1,1.0529664,1,1.0039379
+R125/R152a                                                [R125/R152A],C(C(F)(F)F)(F)F.CC(F)F,XR0,0.99429,1.00282,1,1
+R125/RE143a                                               [R125/RE143A],C(C(F)(F)F)(F)F.COC(F)(F)F,XR0,1.00105,1.00517,1,1
+R125/R1234ze(E)                                           [R125/R1234ZEE],C(C(F)(F)F)(F)F.C(=C/F)\C(F)(F)F,XR0,1.003,1.0071,1,1
+R125/R227ea                                               [R125/R227EA],C(C(F)(F)F)(F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,1.00101,1.00302,1,1
+R125/Isobutane                                            [R125/C4I],C(C(F)(F)F)(F)F.CC(C)C,XR0,1,0.9053808,1,1.0036183
+R125/R236fa                                               [R125/R236FA],C(C(F)(F)F)(F)F.C(C(F)(F)F)C(F)(F)F,XR0,1,1.0094115,1,1.0063437
+R125/Butane                                               [R125/C4],C(C(F)(F)F)(F)F.CCCC,XR0,1,0.9013212,1,1.003246
+R125/R236ea                                               [R125/R236EA],C(C(F)(F)F)(F)F.C(C(F)F)(C(F)(F)F)F,XR0,0.99947,1.01046,1,1
+R125/R245fa                                               [R125/R245FA],C(C(F)(F)F)(F)F.C(C(F)F)C(F)(F)F,XR0,0.99836,1.01325,1,1
+R125/Isopentane                                           [R125/C5I],C(C(F)(F)F)(F)F.CCC(C)C,XR0,1,0.9155196,1,1.0119468
+R125/Ethanol                                              [R125/ETO],C(C(F)(F)F)(F)F.CCO,XR0,0.995401246,1.05044,1,1
+Propylene/Propane                                         [PRY/C3],CC=C.CCC,XR0,1.001001001,0.995,1,1
+Propylene/R22                                             [PRY/R22],CC=C.C(F)(F)Cl,XR0,1,0.9784013,1,1.0009101
+Propylene/R115                                            [PRY/R115],CC=C.C(F)(F)Cl,XR0,1,0.9428297,1,1.0082859
+Propylene/Ammonia                                         [PRY/NH3],CC=C.N,XR0,0.9721,0.8483,1,1
+Propylene/R1216                                           [PRY/R1216],CC=C.C(=C(F)F)(C(F)(F)F)F,XR0,1.01903,0.93686,1,1
+Propylene/R12                                             [PRY/R12],CC=C.C(F)(F)(Cl)Cl,XR0,1,0.9887079,1,1.0020049
+Propylene/R134a                                           [PRY/R134A],CC=C.C(C(F)(F)F)F,XR0,1,0.9364605,1,1.0007007
+Propylene/Dimethyl ether                                  [PRY/DME],CC=C.COC,XR0,1,0.9924,1,0.975
+Propylene/R152a                                           [PRY/R152A],CC=C.CC(F)F,XR0,1,0.9499507,1,1.0000359
+Propylene/Isobutane                                       [PRY/C4I],CC=C.CC(C)C,XR0,0.971817298,1.014,1,1
+Propylene/R142b                                           [PRY/R142B],CC=C.CC(F)(F)Cl,XR0,1,0.9913727,1,1.0035574
+Propylene/Butene                                          [PRY/1BE],CC=C.CCC=C,XR0,1,1.0075,1,1
+Propylene/Butane                                          [PRY/C4],CC=C.CCCC,XR0,1,1.02,1,1
+Propylene/R114                                            [PRY/R114],CC=C.C(C(F)(F)Cl)(F)(F)Cl,XR0,1,0.9744438,1,1.0187337
+Propylene/Isopentane                                      [PRY/C5I],CC=C.CCC(C)C,XR0,1,1.035,1,1
+Propylene/Pentane                                         [PRY/C5],CC=C.CCCCC,XR0,1,1.04,1,1
+Propylene/Acetone                                         [PRY/ACT],CC=C.CC(=O)C,XR0,1.019919,0.99014,1,1
+Propylene/Methanol                                        [PRY/MEO],CC=C.CO,XR0,1,0.979,1,1.086
+Propylene/Hexane                                          [PRY/C6],CC=C.CCCCCC,XR0,1.02145046,1.068,1,1
+Propylene/Ethanol                                         [PRY/ETO],CC=C.CCO,XR0,1.011,1.022,1,1
+Propylene/Benzene                                         [PRY/BEN],CC=C.C1=CC=CC=C1,XR0,1,1.03,1,1
+Propylene/Cyclohexane                                     [PRY/CC6],CC=C.C1CCCCC1,XR0,0.999011,1.04089,1,1
+Propylene/Heptane                                         [PRY/C7],CC=C.CCCCCCC,XR0,1.008064516,1.082,1,1
+Propylene/Isooctane                                       [PRY/C8I],CC=C.CC(C)CC(C)(C)C,XR0,0.964534082,1.11387,1,1
+Propylene/Toluene                                         [PRY/TOL],CC=C.CC1=CC=CC=C1,XR0,1.02145046,1.039,1,1.024
+Propylene/Octane                                          [PRY/C8],CC=C.CCCCCCCC,XR0,0.979431929,1.097,1,1
+Propylene/p-Xylene                                        [PRY/XYP],CC=C.CC1=CC=C(C=C1)C,XR0,0.99082,1.09426,1,1
+Propylene/m-Xylene                                        [PRY/XYM],CC=C.CC1=CC(=CC=C1)C,XR0,0.9934926,1.09811,1,1
+Propylene/Nonane                                          [PRY/C9],CC=C.CCCCCCCCC,XR0,0.970873786,1.117,1,1
+Propylene/Decane                                          [PRY/C10],CC=C.CCCCCCCCCC,XR0,0.956937799,1.191,1,1
+R143a/Propane                                             [R143A/C3],CC(F)(F)F.CCC,XR0,1,0.9130538,1,1.0000536
+R143a/R22                                                 [R143A/R22],CC(F)(F)F.C(F)(F)Cl,XR0,1,0.9990265,1,1.0023121
+R143a/R161                                                [R143A/R161],CC(F)(F)F.CCF,XR0,0.99931,0.99556,1,1
+R143a/R12                                                 [R143A/R12],CC(F)(F)F.C(F)(F)(Cl)Cl,XR0,1,0.94844,1,1.0007214
+R143a/R1234yf                                             [R143A/R1234YF],CC(F)(F)F.C=C(C(F)(F)F)F,XR0,0.9997601,0.99523,1,1
+R143a/Dimethyl ether                                      [R143A/DME],CC(F)(F)F.COC,XR0,0.999880014,0.99059,1,1
+R143a/R152a                                               [R143A/R152A],CC(F)(F)F.CC(F)F,XR0,1,0.9889541,1,1.000572
+R143a/Isobutane                                           [R143A/C4I],CC(F)(F)F.CC(C)C,XR0,1,0.9254452,1,1.0064788
+R143a/Isobutene                                           [R143A/IBE],CC(F)(F)F.CC(=C)C,XR0,0.997804829,0.94375,1,1
+R143a/R236fa                                              [R143A/R236FA],CC(F)(F)F.C(C(F)(F)F)C(F)(F)F,XR0,0.99911,1.01834,1,1
+R143a/Butane                                              [R143A/C4],CC(F)(F)F.CCCC,XR0,0.999070864,0.91912,1,1
+Propane/R22                                               [C3/R22],CCC.C(F)(F)Cl,XR0,1,0.9412329,1,1.0030692
+Propane/R115                                              [C3/R115],CCC.C(C(F)(F)Cl)(F)(F)F,XR0,1,0.9432827,1,1.0043338
+Propane/Ammonia                                           [C3/NH3],CCC.N,XR0,0.9599,0.7905,1,1
+Propane/Cyclopropane                                      [C3/CC3],CCC.C1CC1,XR0,1.0024359,0.98041,1,1
+Propane/R1216                                             [C3/R1216],CCC.C(=C(F)F)(C(F)(F)F)F,XR0,1.01214,0.92233,1,1
+Propane/R134a                                             [C3/R134A],CCC.C(C(F)(F)F)F,XR0,1,0.9002394,1,1.0000015
+Propane/Dimethyl ether                                    [C3/DME],CCC.COC,XR0,1,0.9658,1,0.9857
+Propane/R152a                                             [C3/R152A],CCC.CC(F)F,XR0,1.01223,0.92009,1,1
+Propane/R13I1                                             [C3/CF3I],CCC.C(F)(F)(F)I,XR0,1.0055102,0.98807,1,1
+Propane/R227ea                                            [C3/R227EA],CCC.C(C(F)(F)F)(C(F)(F)F)F,XR0,1.02125,0.91449,1,1
+Propane/Sulfur dioxide                                    [C3/SO2],CCC.O=S=O,XR0,1,0.8738,1,1
+Propane/Isobutene                                         [C3/IBE],CCC.CC(=C)C,XR0,1,0.9927,1,1
+Propane/RC318                                             [C3/RC318],CCC.C1(C(C(C1(F)F)(F)F)(F)F)(F)F,XR0,1.02377,0.9232,1,1
+Propane/Perfluorobutane                                   [C3/C4F10],CCC.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.0256515,0.90987,1,1
+Propane/R236fa                                            [C3/R236FA],CCC.C(C(F)(F)F)C(F)(F)F,XR0,1.02204,0.91493,1,1
+Propane/R114                                              [C3/R114],CCC.C(C(F)(F)Cl)(F)(F)Cl,XR0,1.00332,0.98055,1,1
+Propane/R236ea                                            [C3/R236EA],CCC.C(C(F)F)(C(F)(F)F)F,XR0,1.02233,0.92015,1,1
+Propane/Neopentane                                        [C3/C5A],CCC.CC(C)(C)C,XR0,1,1.004,1,1
+Propane/R245fa                                            [C3/R245FA],CCC.C(C(F)F)C(F)(F)F,XR0,1.02121,0.92286,1,1
+Propane/R113                                              [C3/R113],CCC.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1.0047,1.01447,1,1
+Propane/Acetone                                           [C3/ACT],CCC.CC(=O)C,XR0,1.00310964,1.0191,1,1
+Propane/Isohexane                                         [C3/C6I],CCC.CCCC(C)C,XR0,0.9988813,1.03496,1,1
+Propane/Benzene                                           [C3/BEN],CCC.C1=CC=CC=C1,XR0,1,1.018,1,1
+Propane/Cyclohexane                                       [C3/CC6],CCC.C1CCCCC1,XR0,1.0023,1.035,1,1
+Propane/Methylcyclohexane                                 [C3/C1CC6],CCC.CC1CCCCC1,XR0,1,1.06,1,1
+Propane/Toluene                                           [C3/TOL],CCC.CC1=CC=CC=C1,XR0,1,1.049,1,1
+Propane/m-Xylene                                          [C3/XYM],CCC.CC1=CC(=CC=C1)C,XR0,0.9965519,1.08363,1,1
+Propane/Propylcyclohexane                                 [C3/C3CC6],CCC.CCCC1CCCCC1,XR0,0.9948665,1.10943,1,1
+Propane/Dodecane                                          [C3/C12],CCC.CCCCCCCCCCCC,XR0,1,1.19,1,1
+Propane/Methyl palmitate                                  [C3/MPLMT],CCC.CCCCCCCCCCCCCCCC(=O)OC,XR0,0.9215401,1.21332,1,1
+R22/R218                                                  [R22/R218],C(F)(F)Cl.C(C(F)(F)F)(C(F)(F)F)(F)F,XR0,1,0.8866968,1,1.0293533
+R22/R1216                                                 [R22/R1216],C(F)(F)Cl.C(=C(F)F)(C(F)(F)F)F,XR0,1.0040866,0.96186,1,1
+R22/R12                                                   [R22/R12],C(F)(F)Cl.C(F)(F)(Cl)Cl,XR0,1,0.9701504,1,1.0056117
+R22/R134a                                                 [R22/R134A],C(F)(F)Cl.C(C(F)(F)F)F,XR0,1,0.9907541,1,1.0032063
+R22/Dimethyl ether                                        [R22/DME],C(F)(F)Cl.COC,XR0,0.985309042,1.07125,1,1
+R22/R124                                                  [R22/R124],C(F)(F)Cl.C(C(F)(F)F)(F)Cl,XR0,1,1.0004273,1,1.0126149
+R22/R142b                                                 [R22/R142B],C(F)(F)Cl.C(F)(F)(Cl)Br,XR0,1,1.0050317,1,1.0080566
+R22/RC318                                                 [R22/RC318],C(F)(F)Cl.C1(C(C(C1(F)F)(F)F)(F)F)(F)F,XR0,1.05268,0.96966,1,1
+R22/R11                                                   [R22/R11],C(F)(F)Cl.C(F)(Cl)(Cl)Cl,XR0,1,0.9751865,1,1.0137561
+R22/R123                                                  [R22/R123],C(F)(F)Cl.C(C(F)(F)F)(Cl)Cl,XR0,1.005207,1.01277,1,1
+R22/Pentane                                               [R22/C5],C(F)(F)Cl.CCCCC,XR0,1,0.9569485,1,1.0331871
+R22/R113                                                  [R22/R113],C(F)(F)Cl.C(F)(F)Cl,XR0,1,0.977445,1,1.0412243
+R22/Acetone                                               [R22/ACT],C(F)(F)Cl.CC(=O)C,XR0,0.95551139,1.07981,1,1
+R22/Methanol                                              [R22/MEO],C(F)(F)Cl.CO,XR0,0.997386846,1.03751,1,1
+R22/Hexane                                                [R22/C6],C(F)(F)Cl.CCCCCC,XR0,1.010866818,0.99579,1,1
+R22/Ethanol                                               [R22/ETO],C(F)(F)Cl.CCO,XR0,1.006309561,1.05058,1,1
+R22/Benzene                                               [R22/BEN],C(F)(F)Cl.C1=CC=CC=C1,XR0,0.989511181,1.03496,1,1
+R22/Cyclohexane                                           [R22/CC6],C(F)(F)Cl.C1CCCCC1,XR0,1.009142834,0.97638,1,1
+R115/R114                                                 [R115/R114],C(C(F)(F)Cl)(F)(F)F.C(C(F)(F)Cl)(F)(F)Cl,XR0,1,1.0008497,1,1.0021192
+R161/R1234yf                                              [R161/R1234YF],CCF.C=C(C(F)(F)F)F,XR0,1.0021948,0.98828,1,1
+R161/R134a                                                [R161/R134A],CCF.C(C(F)(F)F)F,XR0,0.998991019,1.00619,1,1
+R161/R227ea                                               [R161/R227EA],CCF.C(C(F)(F)F)(C(F)(F)F)F,XR0,1.00966,1.02456,1,1
+R218/R134a                                                [R218/R134A],C(C(F)(F)F)(C(F)(F)F)(F)F.C(C(F)(F)F)F,XR0,1,0.9201114,1,1.0132426
+R218/Isobutane                                            [R218/C4I],C(C(F)(F)F)(C(F)(F)F)(F)F.CC(C)C,XR0,1,0.8968592,1,1.0018693
+R218/RC318                                                [R218/RC318],C(C(F)(F)F)(C(F)(F)F)(F)F.C1(C(C(C1(F)F)(F)F)(F)F)(F)F,XR0,1.00386,1.04248,1,1
+Ammonia/R134a                                             [NH3/R134A],N.C(C(F)(F)F)F,XR0,1.055547,0.935232,1,1
+Ammonia/Propyne                                           [NH3/PPY],N.CC#C,XR0,1.006960007,0.94154,1,1
+Ammonia/Isobutane                                         [NH3/C4I],N.CC(C)C,XR0,1.048657718,0.7986,1,1
+Ammonia/Butane                                            [NH3/C4],N.CCCC,XR0,1.055631796,0.8067,1,1
+Ammonia/Isopentane                                        [NH3/C5I],N.CCC(C)C,XR0,1.10619469,0.8385,1,1
+Ammonia/Pentane                                           [NH3/C5],N.CCCCC,XR0,1.161980014,0.8702,1,1
+Ammonia/Methanol                                          [NH3/MEO],N.CO,XR0,0.987,1.117,1,1
+Ammonia/Hexane                                            [NH3/C6],N.CCCCCC,XR0,1.130454443,0.8776,1,1
+Ammonia/Ethanol                                           [NH3/ETO],N.CCO,XR0,1,1.101,1,1
+Ammonia/Benzene                                           [NH3/BEN],N.C1=CC=CC=C1,XR0,1.029654036,0.9299,1,1
+Ammonia/Heptane                                           [NH3/C7],N.CCCCCCC,XR0,1.178828245,0.9726,1,1
+Ammonia/Octane                                            [NH3/C8],N.CCCCCCCC,XR0,1.231678778,1.0676,1,1
+Ammonia/m-Xylene                                          [NH3/XYM],N.CC1=CC(=CC=C1)C,XR0,1.042500015,0.95719,1,1
+Cyclopropane/R134a                                        [CC3/R134A],C1CC1.C(C(F)(F)F)F,XR0,1.01623,0.91325,1,1
+R1216/R12                                                 [R1216/R12],C(=C(F)F)(C(F)(F)F)F.C(F)(F)(Cl)Cl,XR0,1.00036013,0.97942,1,1
+R1216/Butene                                              [R1216/1BE],C(=C(F)F)(C(F)(F)F)F.CCC=C,XR0,0.982965213,0.92312,1,1
+R1216/RC318                                               [R1216/RC318],C(=C(F)F)(C(F)(F)F)F.C1(C(C(C1(F)F)(F)F)(F)F)(F)F,XR0,1.00387,1.00433,1,1
+R1216/R123                                                [R1216/R123],C(=C(F)F)(C(F)(F)F)F.C(C(F)(F)F)(Cl)Cl,XR0,1.004939983,0.97467,1,1
+R12/R134a                                                 [R12/R134A],C(C(F)(F)F)F.C(C(F)(F)F)F,XR0,1,0.9404374,1,1.0003354
+R12/R152a                                                 [R12/R152A],C(F)(F)(Cl)Cl.CC(F)F,XR0,1,0.942583,1,1.002577
+R12/R142b                                                 [R12/R142B],C(F)(F)(Cl)Cl.C(F)(F)(Cl)Br,XR0,1,0.9777321,1,1.0002214
+R12/RC318                                                 [R12/RC318],C(F)(F)(Cl)Cl.C1(C(C(C1(F)F)(F)F)(F)F)(F)F,XR0,1.00226,0.96907,1,1
+R12/R114                                                  [R12/R114],C(F)(F)(Cl)Cl.C(C(F)(F)Cl)(F)(F)Cl,XR0,1,0.9983405,1,1.0085162
+R12/R11                                                   [R12/R11],C(F)(F)(Cl)Cl.C(F)(Cl)(Cl)Cl,XR0,1,1.0044593,1,1.0018062
+R12/Diethyl ether                                         [R12/DEE],C(F)(F)(Cl)Cl.CCOCC,XR0,1.004328657,1.02787,1,1
+R12/R113                                                  [R12/R113],C(F)(F)(Cl)Cl.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1,1.0301898,1,1.0165841
+R12/Cyclohexane                                           [R12/CC6],C(F)(F)(Cl)Cl.C1CCCCC1,XR0,1.038507872,0.989,1,1
+R12/Heptane                                               [R12/C7],C(F)(F)(Cl)Cl.CCCCCCC,XR0,1.011920423,1.03388,1,1
+R12/Octane                                                [R12/C8],C(F)(F)(Cl)Cl.CCCCCCCC,XR0,1.003482083,1.06084,1,1
+R1234yf/R134a                                             [R1234YF/R134A],C=C(C(F)(F)F)F.C(C(F)(F)F)F,XR0,1,0.985,1,1
+R1234yf/R152a                                             [R1234YF/R152A],C=C(C(F)(F)F)F.CC(F)F,XR0,0.996300041,0.98112,1,1
+R1234yf/R1234ze(E)                                        [R1234YF/R1234ZEE],C=C(C(F)(F)F)F.C(=C/F)\C(F)(F)F,XR0,1,0.987,1,1
+R1234yf/R227ea                                            [R1234YF/R227EA],C=C(C(F)(F)F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,0.999379985,0.99916,1,1
+R1234yf/Isobutane                                         [R1234YF/C4I],C=C(C(F)(F)F)F.CC(C)C,XR0,0.992752904,0.93536,1,1
+R134a/Dimethyl ether                                      [R134A/DME],C(C(F)(F)F)F.COC,XR0,1,1.0134905,1,1.0025949
+R134a/RE143a                                              [R134A/RE143A],C(C(F)(F)F)F.CC(F)(F)F,XR0,0.99957,0.99594,1,1
+R134a/R1234ze(E)                                          [R134A/R1234ZEE],C(C(F)(F)F)F.C(=C/F)\C(F)(F)F,XR0,1,0.992,1,1
+R134a/R227ea                                              [R134A/R227EA],C(C(F)(F)F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,1,0.9855694,1,1.0104107
+R134a/R124                                                [R134A/R124],C(C(F)(F)F)F.C(C(F)(F)F)(F)Cl,XR0,1,0.9874736,1,1.0031148
+R134a/Isobutane                                           [R134A/C4I],C(C(F)(F)F)F.CC(C)C,XR0,1,0.8937027,1,1.0051783
+R134a/R142b                                               [R134A/R142B],C(C(F)(F)F)F.C(F)(F)(Cl)Br,XR0,1,0.9869325,1,1.0011016
+R134a/R236fa                                              [R134A/R236FA],C(C(F)(F)F)F.C(C(F)(F)F)C(F)(F)F,XR0,0.99958,1.00198,1,1
+R134a/Butane                                              [R134A/C4],C(C(F)(F)F)F.CCCC,XR0,1,0.8929711,1,1.0047311
+R134a/R245fa                                              [R134A/R245FA],C(C(F)(F)F)F.C(C(F)F)C(F)(F)F,XR0,1,1.0060512,1,1
+R134a/R123                                                [R134A/R123],C(C(F)(F)F)F.C(C(F)(F)F)(Cl)Cl,XR0,1,0.9787038,1,1.0087988
+R134a/Isopentane                                          [R134A/C5I],C(C(F)(F)F)F.CCC(C)C,XR0,1,0.8993586,1,1.014659
+R134a/R141b                                               [R134A/R141B],C(C(F)(F)F)F.CC(F)(Cl)Cl,XR0,1,0.9692334,1,1.004749
+R134a/Methanol                                            [R134A/MEO],C(C(F)(F)F)F.CO,XR0,0.992270215,0.98889,1,1
+R134a/Ethanol                                             [R134A/ETO],C(C(F)(F)F)F.CCO,XR0,1.029039495,0.98183,1,1
+Dimethyl ether/R40                                        [DME/R40],COC.CCl,XR0,0.99969,1.01217,1,1
+Dimethyl ether/R227ea                                     [DME/R227EA],COC.C(C(F)(F)F)(C(F)(F)F)F,XR0,1.01575,1.05765,1,1
+Dimethyl ether/Isobutane                                  [DME/C4I],COC.CC(C)C,XR0,1,0.9671,1,0.969
+Dimethyl ether/Sulfur dioxide                             [DME/SO2],COC.O=S=O,XR0,0.972478849,1.1053,1,1
+Dimethyl ether/Butene                                     [DME/1BE],COC.CCC=C,XR0,1,0.9802,1,1
+Dimethyl ether/Perfluorobutane                            [DME/C4F10],COC.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.0495933,0.86921,1,1
+Dimethyl ether/R236fa                                     [DME/R236FA],COC.C(C(F)(F)F)C(F)(F)F,XR0,0.98997,1.04344,1,1
+Dimethyl ether/Butane                                     [DME/C4],COC.CCCC,XR0,1,0.9645,1,1
+Dimethyl ether/R236ea                                     [DME/R236EA],COC.C(C(F)F)(C(F)(F)F)F,XR0,0.98075,1.06804,1,1
+Dimethyl ether/Hexane                                     [DME/C6],COC.CCCCCC,XR0,1.009839982,0.99219,1,1
+Dimethyl ether/Benzene                                    [DME/BEN],COC.C1=CC=CC=C1,XR0,1,1.0297,1,1.0203
+Dimethyl ether/Toluene                                    [DME/TOL],COC.CC1=CC=CC=C1,XR0,1,1.044,1,1.032
+Dimethyl ether/Decane                                     [DME/C10],COC.CCCCCCCCCC,XR0,1,1.0921,1,1.0064
+Dimethyl ether/Dodecane                                   [DME/C12],COC.CCCCCCCCCCCC,XR0,0.987361769,1.1448,1,0.9576
+R152a/R13I1                                               [R152A/CF3I],CC(F)F.C(F)(F)(F)I,XR0,1.001251564,0.96404,1,1
+R152a/R227ea                                              [R152A/R227EA],CC(F)F.C(C(F)(F)F)(C(F)(F)F)F,XR0,1,0.9934671,1,1.0180486
+R152a/R124                                                [R152A/R124],CC(F)F.C(C(F)(F)F)(F)Cl,XR0,1,0.9906777,1,1.0077824
+R152a/Isobutane                                           [R152A/C4I],CC(F)F.CC(C)C,XR0,1,0.9227117,1,1.0108869
+R152a/R142b                                               [R152A/R142B],CC(F)F.C(F)(F)(Cl)Br,XR0,1,0.9901133,1,1.0043071
+R152a/Isobutene                                           [R152A/IBE],CC(F)F.CC(=C)C,XR0,0.999200639,0.93949,1,1
+R152a/Butane                                              [R152A/C4],CC(F)F.CCCC,XR0,0.997575891,0.91179,1,1
+R152a/R114                                                [R152A/R114],CC(F)F.C(C(F)(F)Cl)(F)(F)Cl,XR0,1,0.9504005,1,1.0203986
+R152a/Pentane                                             [R152A/C5],CC(F)F.CCCCC,XR0,1,0.9210153,1,1.0250359
+R152a/R113                                                [R152A/R113],CC(F)F.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1,0.946075,1,1.0320957
+R152a/Methanol                                            [R152A/MEO],CC(F)F.CO,XR0,0.988660069,0.98828,1,1
+R152a/Ethanol                                             [R152A/ETO],CC(F)F.CCO,XR0,1.031502073,0.97677,1,1
+R40/Isobutene                                             [R40/IBE],CCl.CC(=C)C,XR0,0.99948027,0.97922,1,1
+R13I1/Isobutane                                           [CF3I/C4I],C(F)(F)(F)I.CC(C)C,XR0,1.001999992,0.98459,1,1
+R1234ze(E)/Pentane                                        [R1234ZEE/C5],C(=C/F)\C(F)(F)F.CCCCC,XR0,1.007049345,0.937,1,1
+R227ea/Isobutane                                          [R227EA/C4I],C(C(F)(F)F)(C(F)(F)F)F.CC(C)C,XR0,1,0.9078054,1,1.0009088
+R227ea/Isobutene                                          [R227EA/IBE],C(C(F)(F)F)(C(F)(F)F)F.CC(=C)C,XR0,0.987215559,0.92836,1,1
+R227ea/Butane                                             [R227EA/C4],C(C(F)(F)F)(C(F)(F)F)F.CCCC,XR0,0.985794698,0.90171,1,1
+R124/R142b                                                [R124/R142B],C(C(F)(F)F)(F)Cl.CC(F)(F)Cl,XR0,1,1.0025158,1,1.0005123
+Isobutane/Isobutene                                       [C4I/IBE],CC(C)C.CC(=C)C,XR0,1,0.9947,1,1
+Isobutane/Butene                                          [C4I/1BE],CC(C)C.CCC=C,XR0,1,0.996,1,1
+Isobutane/R245fa                                          [C4I/R245FA],CC(C)C.C(C(F)F)C(F)(F)F,XR0,1.01357,0.90803,1,1
+Isobutane/Acetone                                         [C4I/ACT],CC(C)C.CC(=O)C,XR0,1.016363452,0.9358,1,1
+Isobutane/Methanol                                        [C4I/MEO],CC(C)C.CO,XR0,1.048,0.89,1,1
+Isobutane/Ethanol                                         [C4I/ETO],CC(C)C.CCO,XR0,1.018,0.965,1,1
+Isobutane/Benzene                                         [C4I/BEN],CC(C)C.C1=CC=CC=C1,XR0,1,0.992,1,1
+Isobutane/Cyclohexane                                     [C4I/CC6],CC(C)C.C1CCCCC1,XR0,1,1.0167,1,1
+Isobutane/Methylcyclohexane                               [C4I/C1CC6],CC(C)C.CC1CCCCC1,XR0,1,1.03,1,1
+Isobutane/Toluene                                         [C4I/TOL],CC(C)C.CC1=CC=CC=C1,XR0,1,1.01,1,1
+Isobutane/Dodecane                                        [C4I/C12],CC(C)C.CCCCCCCCCCCC,XR0,1,1.16,1,1
+Sulfur dioxide/Isobutene                                  [SO2/IBE],O=S=O.CC(=C)C,XR0,1.0136,0.9405,1,1
+Sulfur dioxide/Diethyl ether                              [SO2/DEE],O=S=O.CCOCC,XR0,1.012268697,1.04115,1,1
+Sulfur dioxide/Acetone                                    [SO2/ACT],O=S=O.CC(=O)C,XR0,0.990197049,1.0959,1,1
+Sulfur dioxide/Methanol                                   [SO2/MEO],O=S=O.CO,XR0,1.038637308,1.0124,1,1
+Sulfur dioxide/Ethanol                                    [SO2/ETO],O=S=O.CCO,XR0,1.015537727,1.0224,1,1
+Sulfur dioxide/Benzene                                    [SO2/BEN],O=S=O.C1=CC=CC=C1,XR0,1.015847217,1,1,1.0266
+Sulfur dioxide/Water                                      [SO2/H2O],O=S=O.O,XR0,1.030502885,0.9424,1,0.7
+Sulfur dioxide/Toluene                                    [SO2/TOL],O=S=O.CC1=CC=CC=C1,XR0,1.011330031,1.02114,1,1
+Sulfur dioxide/Ethylene glycol                            [SO2/EGLY],O=S=O.C(CO)O,XR0,1,1.148,1,1
+R142b/R141b                                               [R142B/R141B],CC(F)(F)Cl.CC(F)(Cl)Cl,XR0,1,0.9945438,1,1.001278
+R142b/R113                                                [R142B/R113],CC(F)(F)Cl.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1,0.9839683,1,1.0129894
+Isobutene/Butane                                          [IBE/C4],CC(=C)C.CCCC,XR0,1,0.997,1,1
+Isobutene/Acetone                                         [IBE/ACT],CC(=C)C.CC(=O)C,XR0,1.013890297,0.9602,1,1
+Isobutene/Methanol                                        [IBE/MEO],CC(=C)C.CO,XR0,1.026061974,0.9209,1,1
+Isobutene/Ethanol                                         [IBE/ETO],CC(=C)C.CCO,XR0,1.022913257,0.9627,1,1
+Isobutene/Benzene                                         [IBE/BEN],CC(=C)C.C1=CC=CC=C1,XR0,1,1.0028,1,1
+Isobutene/Cyclohexane                                     [IBE/CC6],CC(=C)C.C1CCCCC1,XR0,1,1.0101,1,1
+Isobutene/Octane                                          [IBE/C8],CC(=C)C.CCCCCCCC,XR0,0.992418912,1.0536,1,1
+Butene/Perfluorobutane                                    [1BE/C4F10],CCC=C.C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,XR0,1.06345,0.86402,1,1
+Butene/Butane                                             [1BE/C4],CCC=C.CCCC,XR0,1,0.9977,1,1
+Butene/Acetone                                            [1BE/ACT],CCC=C.CC(=O)C,XR0,1.01461039,0.9565,1,1
+Butene/Methanol                                           [1BE/MEO],CCC=C.CO,XR0,1.026377912,0.9185,1,1
+Butene/Ethanol                                            [1BE/ETO],CCC=C.CCO,XR0,1.024275325,0.9615,1,1
+Butene/Benzene                                            [1BE/BEN],CCC=C.C1=CC=CC=C1,XR0,1,1.0044,1,1
+Butene/Cyclohexane                                        [1BE/CC6],CCC=C.C1CCCCC1,XR0,1,1.0122,1,1
+Perfluorobutane/R365mfc                                   [C4F10/R365MFC],C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F.CC(CC(F)(F)F)(F)F,XR0,0.99786,0.93067,1,1
+Butane/trans-Butene                                       [C4/T2B],CCCC.C/C=C/C,XR0,1,0.9962,1,1
+Butane/cis-Butene                                         [C4/C2B],CCCC.C/C=C\C,XR0,1,0.9953,1,1
+Butane/R245fa                                             [C4/R245FA],CCCC.C(C(F)F)C(F)(F)F,XR0,1.02,0.904,1,1
+Butane/R113                                               [C4/R113],CCCC.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1.0029,0.99168,1,1
+Butane/Acetone                                            [C4/ACT],CCCC.CC(=O)C,XR0,1.016156895,0.9452,1,0.8906
+Butane/Ethanol                                            [C4/ETO],CCCC.CCO,XR0,1.03,0.95,1,1
+Butane/Benzene                                            [C4/BEN],CCCC.C1=CC=CC=C1,XR0,1,1,1,1
+Butane/Cyclohexane                                        [C4/CC6],CCCC.C1CCCCC1,XR0,1,1.0267,1,1
+Butane/Methylcyclohexane                                  [C4/C1CC6],CCCC.CC1CCCCC1,XR0,1,1.02,1,1
+Butane/Toluene                                            [C4/TOL],CCCC.CC1=CC=CC=C1,XR0,1,1.02,1,1
+Butane/Dodecane                                           [C4/C12],CCCC.CCCCCCCCCCCC,XR0,1,1.15,1,1
+Butane/Methyl palmitate                                   [C4/MPLMT],CCCC.CCCCCCCCCCCCCCCC(=O)OC,XR0,0.93827,1.21149,1,1
+trans-Butene/cis-Butene                                   [T2B/C2B],C/C=C/C.C/C=C\C,XR0,0.9667,1,1,1
+trans-Butene/Acetone                                      [T2B/ACT],C/C=C/C.CC(=O)C,XR0,1.015228426,0.9504,1,1
+trans-Butene/Methanol                                     [T2B/MEO],C/C=C/C.CO,XR0,1.022808633,0.9061,1,1
+trans-Butene/Ethanol                                      [T2B/ETO],C/C=C/C.CCO,XR0,1.026272578,0.9517,1,1
+R114/R21                                                  [R114/R21],C(C(F)(F)Cl)(F)(F)Cl.C(F)(Cl)Cl,XR0,1,0.960909,1,1.013936
+R114/Pentane                                              [R114/C5],C(C(F)(F)Cl)(F)(F)Cl.CCCCC,XR0,1.003552576,0.97011,1,1
+R114/R113                                                 [R114/R113],C(C(F)(F)Cl)(F)(F)Cl.C(C(F)(Cl)Cl)(F)(F)Cl,XR0,1,1.0031258,1,1.0013426
+R114/Hexane                                               [R114/C6],C(C(F)(F)Cl)(F)(F)Cl.CCCCCC,XR0,1.003723815,0.98179,1,1
+R114/Ethanol                                              [R114/ETO],C(C(F)(F)Cl)(F)(F)Cl.CCO,XR0,1.048646721,0.93497,1,1
+R114/Benzene                                              [R114/BEN],C(C(F)(F)Cl)(F)(F)Cl.C1=CC=CC=C1,XR0,0.998821391,0.95788,1,1
+R114/Heptane                                              [R114/C7],C(C(F)(F)Cl)(F)(F)Cl.CCCCCCC,XR0,1.00791211,0.99663,1,1
+cis-Butene/Acetone                                        [C2B/ACT],C/C=C\C.CC(=O)C,XR0,1.014713343,0.9521,1,1
+cis-Butene/Methanol                                       [C2B/MEO],C/C=C\C.CO,XR0,1.023646228,0.9065,1,1
+cis-Butene/Ethanol                                        [C2B/ETO],C/C=C\C.CCO,XR0,1.027010373,0.9489,1,1
+R21/Methanol                                              [R21/MEO],C(F)(Cl)Cl.CO,XR0,0.969208254,0.91282,1,1
+R21/Ethanol                                               [R21/ETO],C(F)(Cl)Cl.CCO,XR0,1.020543541,0.90692,1,1
+Neopentane/Pentane                                        [C5A/C5],CC(C)(C)C.CCCCC,XR0,1.00050005,1.00236,1,1
+R245fa/Isopentane                                         [R245FA/C5I],C(C(F)F)C(F)(F)F.CCC(C)C,XR0,1.011756612,0.90433,1,1
+R245fa/Pentane                                            [R245FA/C5],C(C(F)F)C(F)(F)F.CCCCC,XR0,1,0.9,1,1
+R123/Water                                                [R123/H2O],C(C(F)(F)F)(Cl)Cl.O,XR0,1.099959961,0.95847,1,1
+Isopentane/R365mfc                                        [C5I/R365MFC],CCC(C)C.CC(CC(F)(F)F)(F)F,XR0,1.01335,0.9238,1,1
+Isopentane/Acetone                                        [C5I/ACT],CCC(C)C.CC(=O)C,XR0,1,0.9177,1,1
+Isopentane/Ethanol                                        [C5I/ETO],CCC(C)C.CCO,XR0,1.016,0.934,1,1
+Isopentane/Benzene                                        [C5I/BEN],CCC(C)C.C1=CC=CC=C1,XR0,1,0.99,1,1
+Isopentane/Cyclohexane                                    [C5I/CC6],CCC(C)C.C1CCCCC1,XR0,1,0.9961,1,1
+Isopentane/Methylcyclohexane                              [C5I/C1CC6],CCC(C)C.CC1CCCCC1,XR0,1,1.005,1,1
+Isopentane/Toluene                                        [C5I/TOL],CCC(C)C.CC1=CC=CC=C1,XR0,1,1,1,1
+Isopentane/Dodecane                                       [C5I/C12],CCC(C)C.CCCCCCCCCCCC,XR0,1,1.13,1,1
+Perfluoropentane/Pentane                                  [C5F12/C5],C(C(C(F)(F)F)(F)F)(C(C(F)(F)F)(F)F)(F)F.CCCCC,XR0,0.973039981,0.8914,1,1
+R141b/Pentane                                             [R141B/C5],CC(F)(Cl)Cl.CCCCC,XR0,1,0.977,1,1
+RE347mcc/Pentane                                          [RE347MCC/C5],COC(C(C(F)(F)F)(F)F)(F)F.CCCCC,XR0,1,0.928,1,1
+RE347mcc/Novec649                                         [RE347MCC/N649],COC(C(C(F)(F)F)(F)F)(F)F.C(=O)(C(C(F)(F)F)(C(F)(F)F)F)C(C(F)(F)F)(F)F,XR0,1.011122346,0.98,1,1
+Diethyl ether/Acetone                                     [DEE/ACT],CCOCC.CC(=O)C,XR0,1.010090807,0.97127,1,1
+Diethyl ether/Methanol                                    [DEE/MEO],CCOCC.CO,XR0,1.004170017,0.94684,1,1
+Diethyl ether/Hexane                                      [DEE/C6],CCOCC.CCCCCC,XR0,0.997729965,0.99035,1,1
+Diethyl ether/Ethanol                                     [DEE/ETO],CCOCC.CCO,XR0,1.008970046,0.97226,1,1
+Diethyl ether/Benzene                                     [DEE/BEN],CCOCC.C1=CC=CC=C1,XR0,0.999080846,1.00226,1,1
+Diethyl ether/Water                                       [DEE/H2O],CCOCC.O,XR0,0.96917,0.84219,1,1
+Pentane/Novec649                                          [C5/N649],CCCCC.C(=O)(C(C(F)(F)F)(C(F)(F)F)F)C(C(F)(F)F)(F)F,XR0,1,0.894,1,1
+Pentane/Acetone                                           [C5/ACT],CCCCC.CC(=O)C,XR0,1.005833836,0.9221,1,1
+Pentane/Ethanol                                           [C5/ETO],CCCCC.CCO,XR0,1.028,0.923,1,1.025
+Pentane/Benzene                                           [C5/BEN],CCCCC.C1=CC=CC=C1,XR0,1,0.976,1,1
+Pentane/Cyclohexane                                       [C5/CC6],CCCCC.C1CCCCC1,XR0,1,0.9961,1,1
+Pentane/Methylcyclohexane                                 [C5/C1CC6],CCCCC.CC1CCCCC1,XR0,1,1.003,0.995,1
+Pentane/Toluene                                           [C5/TOL],CCCCC.CC1=CC=CC=C1,XR0,1,0.992,1,1
+Pentane/Dodecane                                          [C5/C12],CCCCC.CCCCCCCCCCCC,XR0,1,1.114,1,1.047
+Pentane/Hexadecane                                        [C5/C16],CCCCC.CCCCCCCCCCCCCCCC,XR0,0.9833,1.1486,1,1
+R113/Acetone                                              [R113/ACT],C(C(F)(Cl)Cl)(F)(F)Cl.CC(=O)C,XR0,1.003713741,0.95086,1,1
+R113/Hexane                                               [R113/C6],C(C(F)(Cl)Cl)(F)(F)Cl.CCCCCC,XR0,1.00060036,0.98509,1,1
+R113/Ethanol                                              [R113/ETO],C(C(F)(Cl)Cl)(F)(F)Cl.CCO,XR0,1.011940903,0.90301,1,1
+R113/Benzene                                              [R113/BEN],C(C(F)(Cl)Cl)(F)(F)Cl.C1=CC=CC=C1,XR0,0.996293787,0.97215,1,1
+R113/Heptane                                              [R113/C7],C(C(F)(Cl)Cl)(F)(F)Cl.CCCCCCC,XR0,1.004247969,0.99057,1,1
+Cyclopentane/Ethanol                                      [CC5/ETO],C1CCCC1.CCO,XR0,1.087665869,0.9055,1,0.9916
+Cyclopentane/Benzene                                      [CC5/BEN],C1CCCC1.C1=CC=CC=C1,XR0,1,0.9859,1,1
+Cyclopentane/Cyclohexane                                  [CC5/CC6],C1CCCC1.C1CCCCC1,XR0,1,1.0014,1,1
+Cyclopentane/D4                                           [CC5/D4],C1CCCC1.C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,XR0,0.99608,1.03293,1,1
+Acetone/Methanol                                          [ACT/MEO],CC(=O)C.CO,XR0,1,0.97,1,1.007
+Acetone/Hexane                                            [ACT/C6],CC(=O)C.CCCCCC,XR0,1,0.9194,1,1
+Acetone/Ethanol                                           [ACT/ETO],CC(=O)C.CCO,XR0,1.005,0.975,1,0.997
+Acetone/Benzene                                           [ACT/BEN],CC(=O)C.C1=CC=CC=C1,XR0,1,0.984,1,0.9826
+Acetone/Dimethyl carbonate                                [ACT/DMC],CC(=O)C.COC(=O)OC,XR0,1,1.00016,1,1
+Acetone/Heptane                                           [ACT/C7],CC(=O)C.CCCCCCC,XR0,1,0.9146,1,1.0198
+Acetone/Isooctane                                         [ACT/C8I],CC(=O)C.CC(C)CC(C)(C)C,XR0,1.004510049,0.93534,1,1
+Acetone/Water                                             [ACT/H2O],CC(=O)C.O,XR0,0.98882,0.925278,1.008091,0.923029
+Acetone/Methylcyclohexane                                 [ACT/C1CC6],CC(=O)C.CC1CCCCC1,XR0,1,0.919,1,1
+Acetone/Toluene                                           [ACT/TOL],CC(=O)C.CC1=CC=CC=C1,XR0,1,0.98,1,0.9962
+Acetone/Octane                                            [ACT/C8],CC(=O)C.CCCCCCCC,XR0,1.0196,0.9277,1,1.0352
+Acetone/p-Xylene                                          [ACT/XYP],CC(=O)C.CC1=CC=C(C=C1)C,XR0,1.0007,0.9752,1,1
+Acetone/Nonane                                            [ACT/C9],CC(=O)C.CCCCCCCCC,XR0,1.0246,0.9409,1,1.0466
+Acetone/Decane                                            [ACT/C10],CC(=O)C.CCCCCCCCCC,XR0,1.044,0.9779,1,1.0563
+Acetone/Undecane                                          [ACT/C11],CC(=O)C.CCCCCCCCCCC,XR0,1.044,0.98,1,1.075
+Acetone/Ethylene glycol                                   [ACT/EGLY],CC(=O)C.C(CO)O,XR0,0.9975,1.0468,1,0.9108
+Acetone/Dodecane                                          [ACT/C12],CC(=O)C.CCCCCCCCCCCC,XR0,1.044,0.995,1,1.0915
+Isohexane/Methanol                                        [C6I/MEO],CCCC(C)C.CO,XR0,1.00691,0.88008,1,1
+Isohexane/Hexane                                          [C6I/C6],CCCC(C)C.CCCCCC,XR0,1.000460212,0.9986,1,1
+Isohexane/Ethanol                                         [C6I/ETO],CCCC(C)C.CCO,XR0,1.0146413,0.90538,1,1
+Isohexane/Benzene                                         [C6I/BEN],CCCC(C)C.C1=CC=CC=C1,XR0,0.9936111,0.97119,1,1
+Isohexane/Heptane                                         [C6I/C7],CCCC(C)C.CCCCCCC,XR0,0.9990309,1.00472,1,1
+Methanol/Ethanol                                          [MEO/ETO],CO.CCO,XR0,1,0.999,1,1.012
+Methanol/Benzene                                          [MEO/BEN],CO.C1=CC=CC=C1,XR0,0.978473581,0.901,1,1
+Methanol/Dimethyl carbonate                               [MEO/DMC],CO.COC(=O)OC,XR0,1,0.9369,1,1
+Methanol/Water                                            [MEO/H2O],CO.O,XR0,0.995024876,0.961,1,1.034
+Methanol/MM                                               [MEO/MM],CO.C[Si](C)(C)O[Si](C)(C)C,XR0,1.02619,0.90636,1,1
+Methanol/Methylcyclohexane                                [MEO/C1CC6],CO.CC1CCCCC1,XR0,1.01,0.864,0.978,1.041
+Methanol/Octane                                           [MEO/C8],CO.CCCCCCCC,XR0,1.074113856,0.881,1,1.124
+Methanol/Ethylbenzene                                     [MEO/EBE],CO.CCC1=CC=CC=C1,XR0,0.9989112,0.89432,1,1
+Methanol/m-Xylene                                         [MEO/XYM],CO.CC1=CC(=CC=C1)C,XR0,0.99745,0.88973,1,1
+Methanol/Nonane                                           [MEO/C9],CO.CCCCCCCCC,XR0,1.074113856,0.893,1,1.118
+Methanol/Undecane                                         [MEO/C11],CO.CCCCCCCCCCC,XR0,1.105729892,0.95529,1,1
+Methanol/Dodecane                                         [MEO/C12],CO.CCCCCCCCCCCC,XR0,1.109742429,0.79118,1,1
+Hexane/Ethanol                                            [C6/ETO],CCCCCC.CCO,XR0,1.013,0.901,1.022,1.026
+Hexane/Isooctane                                          [C6/C8I],CCCCCC.CC(C)CC(C)(C)C,XR0,1.00668,1.00427,1,1
+Hexane/MM                                                 [C6/MM],CCCCCC.C[Si](C)(C)O[Si](C)(C)C,XR0,0.995,1.00697,1,1
+Hexane/Methylcyclohexane                                  [C6/C1CC6],CCCCCC.CC1CCCCC1,XR0,1,0.998,1,0.998
+Hexane/Ethylbenzene                                       [C6/EBE],CCCCCC.CCC1=CC=CC=C1,XR0,1.0002601,0.99383,1,1
+Hexane/p-Xylene                                           [C6/XYP],CCCCCC.CC1=CC=C(C=C1)C,XR0,1.00071,0.99711,1,1
+Hexane/m-Xylene                                           [C6/XYM],CCCCCC.CC1=CC(=CC=C1)C,XR0,1.01308,0.99672,1,1
+Hexane/o-Xylene                                           [C6/XYO],CCCCCC.CC1=CC=CC=C1C,XR0,1.00096,1.00154,1,1
+Ethanol/Dimethyl carbonate                                [ETO/DMC],CCO.COC(=O)OC,XR0,0.9977,0.9414,1,1
+Ethanol/Heptane                                           [ETO/C7],CCO.CCCCCCC,XR0,0.98095996,0.8981,1,1
+Ethanol/MM                                                [ETO/MM],CCO.C[Si](C)(C)O[Si](C)(C)C,XR0,0.99498,0.91176,1,1
+Ethanol/Methylcyclohexane                                 [ETO/C1CC6],CCO.CC1CCCCC1,XR0,0.9749534,0.9013,1,1
+Ethanol/Octane                                            [ETO/C8],CCO.CCCCCCCC,XR0,0.985221675,0.887,0.986193294,1.036
+Ethanol/Ethylbenzene                                      [ETO/EBE],CCO.CCC1=CC=CC=C1,XR0,0.9898638,0.90463,1,1
+Ethanol/p-Xylene                                          [ETO/XYP],CCO.CC1=CC=C(C=C1)C,XR0,0.97813,0.9059,1,1
+Ethanol/o-Xylene                                          [ETO/XYO],CCO.CC1=CC=CC=C1C,XR0,0.98697,0.90681,1,1
+Ethanol/Nonane                                            [ETO/C9],CCO.CCCCCCCCC,XR0,1.02145046,0.9,1,1.048
+Ethanol/Decane                                            [ETO/C10],CCO.CCCCCCCCCC,XR0,1.004016064,0.894,1,1.059
+Benzene/Dimethyl carbonate                                [BEN/DMC],C1=CC=CC=C1.COC(=O)OC,XR0,1,0.9858,1,1
+Benzene/Isooctane                                         [BEN/C8I],C1=CC=CC=C1.CC(C)CC(C)(C)C,XR0,1.008609999,0.96998,1,1
+Benzene/Methylcyclohexane                                 [BEN/C1CC6],C1=CC=CC=C1.CC1CCCCC1,XR0,1.003,0.98,1,1.014
+Benzene/Ethylbenzene                                      [BEN/EBE],C1=CC=CC=C1.CCC1=CC=CC=C1,XR0,0.99807,1.01425,1,1
+Benzene/p-Xylene                                          [BEN/XYP],C1=CC=CC=C1.CC1=CC=C(C=C1)C,XR0,1.00112,1.00639,1,1
+Benzene/m-Xylene                                          [BEN/XYM],C1=CC=CC=C1.CC1=CC(=CC=C1)C,XR0,0.99896,1.00464,1,1
+Benzene/o-Xylene                                          [BEN/XYO],C1=CC=CC=C1.CC1=CC=CC=C1C,XR0,1.01414,1.00329,1,1
+Benzene/D4                                                [BEN/D4],C1=CC=CC=C1.C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,XR0,1.01222,0.98954,1,1
+Benzene/Dodecane                                          [BEN/C12],C1=CC=CC=C1.CCCCCCCCCCCC,XR0,1.007170044,1.02547,1,1
+Cyclohexane/Dimethyl carbonate                            [CC6/DMC],C1CCCCC1.COC(=O)OC,XR0,1.0091,0.9299,1,1
+Cyclohexane/Isooctane                                     [CC6/C8I],C1CCCCC1.CC(C)CC(C)(C)C,XR0,1.001900003,0.99375,1,1
+Cyclohexane/Methylcyclohexane                             [CC6/C1CC6],C1CCCCC1.CC1CCCCC1,XR0,1,1,1,1
+Cyclohexane/Ethylbenzene                                  [CC6/EBE],C1CCCCC1.CCC1=CC=CC=C1,XR0,1.0043,0.99414,1,1
+Cyclohexane/p-Xylene                                      [CC6/XYP],C1CCCCC1.CC1=CC=C(C=C1)C,XR0,1.00184,0.99198,1,1
+Cyclohexane/m-Xylene                                      [CC6/XYM],C1CCCCC1.CC1=CC(=CC=C1)C,XR0,1.00315,0.99328,1,1
+Cyclohexane/o-Xylene                                      [CC6/XYO],C1CCCCC1.CC1=CC=CC=C1C,XR0,1.00392,0.99006,1,1
+Dimethyl carbonate/Heptane                                [DMC/C7],COC(=O)OC.CCCCCCC,XR0,1,0.9256,1,1.0133
+Dimethyl carbonate/Water                                  [DMC/H2O],COC(=O)OC.O,XR0,0.949487277,0.8581,1,1
+Dimethyl carbonate/Toluene                                [DMC/TOL],COC(=O)OC.CC1=CC=CC=C1,XR0,1,0.9766,1,1
+Dimethyl carbonate/Octane                                 [DMC/C8],COC(=O)OC.CCCCCCCC,XR0,1.013479274,0.9247,1,1.0273
+Dimethyl carbonate/Nonane                                 [DMC/C9],COC(=O)OC.CCCCCCCCC,XR0,1.021346134,0.9302,1,1.0357
+Dimethyl carbonate/Decane                                 [DMC/C10],COC(=O)OC.CCCCCCCCCC,XR0,1.017293998,0.9217,1,1.0432
+Dimethyl carbonate/Ethylene glycol                        [DMC/EGLY],COC(=O)OC.C(CO)O,XR0,0.9876,0.9898,1,1
+Heptane/Methylcyclohexane                                 [C7/C1CC6],CCCCCCC.CC1CCCCC1,XR0,1,0.998,1,1.003
+Heptane/Ethylbenzene                                      [C7/EBE],CCCCCCC.CCC1=CC=CC=C1,XR0,0.9996002,0.98665,1,1
+Heptane/p-Xylene                                          [C7/XYP],CCCCCCC.CC1=CC=C(C=C1)C,XR0,0.99936,0.98957,1,1
+Heptane/m-Xylene                                          [C7/XYM],CCCCCCC.CC1=CC(=CC=C1)C,XR0,0.99846,0.9896,1,1
+Heptane/o-Xylene                                          [C7/XYO],CCCCCCC.CC1=CC=CC=C1C,XR0,0.99904,0.98672,1,1
+Heptane/Dodecane                                          [C7/C12],CCCCCCC.CCCCCCCCCCCC,XR0,1,1.019,1,1.02
+Isooctane/Toluene                                         [C8I/TOL],CC(C)CC(C)(C)C.CC1=CC=CC=C1,XR0,0.99502,0.9779,1,1
+Isooctane/Octane                                          [C8I/C8],CC(C)CC(C)(C)C.CCCCCCCC,XR0,1.001289962,1.00412,1,1
+Isooctane/Ethylbenzene                                    [C8I/EBE],CC(C)CC(C)(C)C.CCC1=CC=CC=C1,XR0,0.9990409,0.98599,1,1
+Isooctane/p-Xylene                                        [C8I/XYP],CC(C)CC(C)(C)C.CC1=CC=C(C=C1)C,XR0,0.99929,0.99104,1,1
+Isooctane/m-Xylene                                        [C8I/XYM],CC(C)CC(C)(C)C.CC1=CC(=CC=C1)C,XR0,0.99628,1.0016,1,1
+Isooctane/o-Xylene                                        [C8I/XYO],CC(C)CC(C)(C)C.CC1=CC=CC=C1C,XR0,0.99859,0.98905,1,1
+Water/Heavy water                                         [H2O/D2O],O.[2H]O[2H],XR0,1.004248,1.00379,1,1
+Water/Ethylene glycol                                     [H2O/EGLY],O.C(CO)O,XR0,1.006062027,0.9986637,1.009003235,1.066166
+Water/Dodecane                                            [H2O/C12],O.CCCCCCCCCCCC,XR0,1.0801469,0.7908,1,0.5514
+MM/Toluene                                                [MM/TOL],C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C.CC1=CC=CC=C1,XR0,0.999100011,0.97446,1,1
+Methylcyclohexane/Toluene                                 [C1CC6/TOL],CC1CCCCC1.CC1=CC=CC=C1,XR0,1,0.987,1,1.006
+Methylcyclohexane/Octane                                  [C1CC6/C8],CC1CCCCC1.CCCCCCCC,XR0,1,1.01,1,1.01
+Methylcyclohexane/Ethylbenzene                            [C1CC6/EBE],CC1CCCCC1.CCC1=CC=CC=C1,XR0,1.00103998,0.99289,1,1
+Methylcyclohexane/p-Xylene                                [C1CC6/XYP],CC1CCCCC1.CC1=CC=C(C=C1)C,XR0,1.001329966,0.99463,1,1
+Methylcyclohexane/o-Xylene                                [C1CC6/XYO],CC1CCCCC1.CC1=CC=CC=C1C,XR0,1.00132004,0.99508,1,1
+Methylcyclohexane/Nonane                                  [C1CC6/C9],CC1CCCCC1.CCCCCCCCC,XR0,1,1.02,1,1.02
+Methylcyclohexane/Decane                                  [C1CC6/C10],CC1CCCCC1.CCCCCCCCCC,XR0,1,1.035,1,1.03
+Toluene/Ethylbenzene                                      [TOL/EBE],CC1=CC=CC=C1.CCC1=CC=CC=C1,XR0,0.9971283,1.00252,1,1
+Toluene/p-Xylene                                          [TOL/XYP],CC1=CC=CC=C1.CC1=CC=C(C=C1)C,XR0,1.0008507,0.99999,1,1
+Toluene/m-Xylene                                          [TOL/XYM],CC1=CC=CC=C1.CC1=CC(=CC=C1)C,XR0,1.0035123,0.99601,1,1
+Toluene/o-Xylene                                          [TOL/XYO],CC1=CC=CC=C1.CC1=CC=CC=C1C,XR0,1.001743,1.00209,1,1
+Toluene/Dodecane                                          [TOL/C12],CC1=CC=CC=C1.CCCCCCCCCCCC,XR0,1.004944326,1.01727,1,1
+Octane/Ethylbenzene                                       [C8/EBE],CCCCCCCC.CCC1=CC=CC=C1,XR0,0.9992206,0.98584,1,1
+Octane/p-Xylene                                           [C8/XYP],CCCCCCCC.CC1=CC=C(C=C1)C,XR0,0.99788,0.98651,1,1
+Octane/m-Xylene                                           [C8/XYM],CCCCCCCC.CC1=CC(=CC=C1)C,XR0,0.9996901,0.99296,1,1
+Octane/o-Xylene                                           [C8/XYO],CCCCCCCC.CC1=CC=CC=C1C,XR0,0.99933,0.99245,1,1
+Octane/Dodecane                                           [C8/C12],CCCCCCCC.CCCCCCCCCCCC,XR0,0.99884,1.025,1,1
+Ethylbenzene/p-Xylene                                     [EBE/XYP],CCC1=CC=CC=C1.CC1=CC=C(C=C1)C,XR0,0.999479971,0.99905,1,1
+Ethylbenzene/m-Xylene                                     [EBE/XYM],CCC1=CC=CC=C1.CC1=CC(=CC=C1)C,XR0,1.000120014,0.99939,1,1
+Ethylbenzene/o-Xylene                                     [EBE/XYO],CCC1=CC=CC=C1.CC1=CC=CC=C1C,XR0,1.001530037,0.99924,1,1
+Ethylbenzene/Nonane                                       [EBE/C9],CCC1=CC=CC=C1.CCCCCCCCC,XR0,1.00375001,0.98564,1,1
+p-Xylene/Nonane                                           [XYP/C9],CC1=CC=C(C=C1)C.CCCCCCCCC,XR0,0.999390372,0.99387,1,1
+p-Xylene/Decane                                           [XYP/C10],CC1=CC=C(C=C1)C.CCCCCCCCCC,XR0,1.001011021,0.99262,1,1
+p-Xylene/Undecane                                         [XYP/C11],CC1=CC=C(C=C1)C.CCCCCCCCCCC,XR0,1.000190036,1.0018,1,1
+m-Xylene/o-Xylene                                         [XYM/XYO],CC1=CC(=CC=C1)C.CC1=CC=CC=C1C,XR0,1.00073,0.99997,1,1
+m-Xylene/Nonane                                           [XYM/C9],CC1=CC(=CC=C1)C.CCCCCCCCC,XR0,1.002270041,0.98031,1,1
+m-Xylene/Decane                                           [XYM/C10],CC1=CC(=CC=C1)C.CCCCCCCCCC,XR0,0.999650122,0.99369,1,1
+m-Xylene/Undecane                                         [XYM/C11],CC1=CC(=CC=C1)C.CCCCCCCCCCC,XR0,0.999100809,1.00198,1,1
+o-Xylene/Nonane                                           [XYO/C9],CC1=CC=CC=C1C.CCCCCCCCC,XR0,1.002908434,0.98501,1,1
+o-Xylene/Decane                                           [XYO/C10],CC1=CC=CC=C1C.CCCCCCCCCC,XR0,1.001351825,0.99471,1,1
+o-Xylene/Undecane                                         [XYO/C11],CC1=CC=CC=C1C.CCCCCCCCCCC,XR0,1.001903617,0.99825,1,1
+MDM/D4                                                    [MDM/D4],C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C.C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,XR0,0.998263,0.99969,1,1
+Methyl palmitate/Methyl oleate                            [MPLMT/MOLEA],CCCCCCCCCCCCCCCC(=O)OC.CCCCCCCC/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl palmitate/Methyl linoleate                         [MPLMT/MLNLT],CCCCCCCCCCCCCCCC(=O)OC.CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl palmitate/Methyl linolenate                        [MPLMT/MLNLNT],CCCCCCCCCCCCCCCC(=O)OC.CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl palmitate/Methyl stearate                          [MPLMT/MSTRT],CCCCCCCCCCCCCCCC(=O)OC.CCCCCCCCCCCCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl oleate/Methyl linoleate                            [MOLEA/MLNLT],CCCCCCCC/C=C\CCCCCCCC(=O)OC.CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl oleate/Methyl linolenate                           [MOLEA/MLNLNT],CCCCCCCC/C=C\CCCCCCCC(=O)OC.CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl oleate/Methyl stearate                             [MOLEA/MSTRT],CCCCCCCC/C=C\CCCCCCCC(=O)OC.CCCCCCCCCCCCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl linoleate/Methyl linolenate                        [MLNLT/MLNLNT],CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC.CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl linoleate/Methyl stearate                          [MLNLT/MSTRT],CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC.CCCCCCCCCCCCCCCCCC(=O)OC,XR0,1,1,1,1
+Methyl linolenate/Methyl stearate                         [MLNLNT/MSTRT],CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC.CCCCCCCCCCCCCCCCCC(=O)OC,XR0,1,1,1,1
+Ammonia/Hydrazine                                         [NH3/N2H4],N.NN,XR0,1.014,1.053,1,1
+Ammonia/Monomethylhydrazine                               [NH3/MMH],N.CNN,XR0,1,1.049,1,1
+Hydrazine/Monomethylhydrazine                             [N2H4/MMH],NN.CNN,XR0,1,0.9695,1,1
