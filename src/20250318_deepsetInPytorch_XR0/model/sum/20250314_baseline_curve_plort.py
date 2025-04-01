@@ -69,7 +69,7 @@ class DeepSet(nn.Module):
 # Step 4: Train the model
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-df = pd.read_csv('split_smiles.csv')
+df = pd.read_csv('/Users/navin/Library/CloudStorage/Dropbox-AIZOTH/研究/Navin/NEDO/REFPROP_Material property/deepset-bi-mixtures/src/20250318_deepsetInPytorch_XR0/model/sum/split_smiles.csv')
 
 # Splitting into Train (80%), Validation (10%), Test (10%)
 train_df, temp_df = train_test_split(df, test_size=0.2, random_state=42)
